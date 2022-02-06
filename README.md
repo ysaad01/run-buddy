@@ -12,3 +12,5 @@ https://ysaad01.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Yasmine
+
+### ©️2019 Run Buddy, Inc 
